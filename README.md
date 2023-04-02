@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗭𝗜𝗔+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗚𝗨𝗔𝗥𝗗𝗜𝗔𝗡𝗳𝗳!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://graph.org/file/4f89fb103fd239a7d3f7d.jpg" alt="ZIA LOGO">
+  <img src="" alt="ZA LOGO">
 </p>
 <h1 align="center">
   <b> 𝗭𝗜𝗔 𝗕𝗢𝗧</b>
