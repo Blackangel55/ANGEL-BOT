@@ -67,7 +67,7 @@
 
 <a href="https://t.me/+Rm1Q1qVxhdg4ZWVl"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-blue.svg?logo=Telegram"></a>                     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guardianff/ZIA-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guardianff/ANGEL-BOT)
 
 ## Deploy to Koyeb
 
