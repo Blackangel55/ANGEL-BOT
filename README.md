@@ -77,6 +77,14 @@
 
 🙏 create button your self
 
+### Deploy on Render
+
+Press the button and make ytml folder and deploy on Render
+
+<a href="https://render.com/deploy?repo=https://github.com/Guardianff/ANGEL-BOT">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
 ## Commands
 ```
 start - check bot alive
