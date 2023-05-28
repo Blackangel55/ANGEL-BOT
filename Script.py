@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝚉𝙸𝙰 𝙱𝙾𝚃 𝚟2.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://t.me/+Rm1Q1qVxhdg4ZWVl>𝙰𝙳𝙷𝙾𝙻𝙾𝙺𝙰𝙼</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://t.me/AM_FILMS>𝙰𝙳𝙷𝙾𝙻𝙾𝙺𝙰𝙼</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/GUARDIANff>𝙶𝚄𝙰𝚁𝙳𝙸𝙰𝙽𝚏𝚏</a>"""
